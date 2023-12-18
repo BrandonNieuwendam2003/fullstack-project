@@ -47,12 +47,14 @@ nav a:hover {
 
 /* Main styles */
 main {
-    width: 80%;
-    margin: 20px auto;
+    width: 20%;
+    margin: 200px auto;
+
 }
 
 section {
     margin-bottom: 30px;
+    text-align: center;
 }
 
 h2 {
@@ -90,6 +92,7 @@ footer {
 }
 p {
     color: #fff;
+    margin-top: 10px;
 }
 
 .p1 {
