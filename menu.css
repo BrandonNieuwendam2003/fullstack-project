@@ -65,3 +65,18 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+.table-container {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-container th, .table-container td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table-container th {
+  background-color: #f2f2f2;
+}

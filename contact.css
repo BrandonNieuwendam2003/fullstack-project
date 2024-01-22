@@ -33,7 +33,7 @@ li{
 
 a{
   text-decoration: none;
-  color: #fff;
+  color: blue;
   font-weight: bold;
   font-size: 16px;
 }
@@ -41,6 +41,7 @@ a{
 a:hover {
   color: #FFD700;
 }
+
 
 main {
   max-width: 800px;
